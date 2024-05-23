@@ -1,0 +1,29 @@
+# This file was created Thu May 23 10:15:47 2024
+# Created by:
+#              :-) GROMACS - gmx energy, 2021.4-Ubuntu-2021.4-2 (-:
+# 
+# Executable:   /usr/bin/gmx
+# Data prefix:  /usr
+# Working dir:  /content/295
+# Command line:
+#   gmx energy -f ener.edr
+# gmx energy is part of G R O M A C S:
+#
+# Guyana Rwanda Oman Macau Angola Cameroon Senegal
+#
+@    title "GROMACS Energies"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "(nm)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Box-X"
+@ s1 legend "Box-Y"
+    0.000000    6.000000    6.000000
+ 3000.000000    6.041023    6.041023
+ 6000.000000    6.050293    6.050293
+ 6899.400000    6.053441    6.053441
